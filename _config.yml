@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: rockndroid
+email: npatarino@gmail.com
+description: Android Community in Spanish
+baseurl: ""
+url: "https://rockndroid.dev" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: madg_events
+github_username: https://github.com/organizations/ADGevents
 
 # Build settings
 markdown: kramdown
