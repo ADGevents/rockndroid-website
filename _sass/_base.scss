@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'camptonbold';
+    src: url('../fonts/campton-bold-webfont.woff2') format('woff2'),
+    url('../fonts/campton-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html,
 body {
     height: 100%;
@@ -76,9 +84,8 @@ aside {
     @include transition-all;
     .navbar-header .navbar-brand {
         color: $theme-primary;
-        @include sans-serif-font;
-        font-weight: 700;
-        text-transform: uppercase;
+        @include logo-font;
+        text-transform: lowercase;
         &:hover,
         &:focus {
             color: darken($theme-primary, 10%);
