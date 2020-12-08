@@ -21,6 +21,16 @@
   <component name="ChangeListManager">
     <list default="true" id="2535bc4b-f24e-4372-a458-38d1d090c959" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/call-to-action.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/call-to-action.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,6 +68,7 @@
       <updated>1607443667165</updated>
       <workItem from="1607443668275" duration="5164000" />
       <workItem from="1607450264508" duration="33000" />
+      <workItem from="1607469418710" duration="1669000" />
     </task>
     <servers />
   </component>
@@ -76,13 +88,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="500" height="445" key="SwitcherDM" timestamp="1607449565138">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1607471084379">
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.25.3440.1415@0.25.3440.1415" timestamp="1607449565138" />
-    <state x="693" y="505" width="602" height="490" key="find.popup" timestamp="1607449928404">
+    <state width="500" height="445" key="SwitcherDM/0.25.3440.1415@0.25.3440.1415" timestamp="1607471084379" />
+    <state x="693" y="505" width="602" height="490" key="find.popup" timestamp="1607471002638">
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
-    <state x="693" y="505" width="602" height="490" key="find.popup/0.25.3440.1415@0.25.3440.1415" timestamp="1607449928404" />
+    <state x="693" y="505" width="602" height="490" key="find.popup/0.25.3440.1415@0.25.3440.1415" timestamp="1607471002638" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 # Site settings
 title: rockndroid
 email: npatarino@gmail.com
-description: Android Community in Spanish
+description: Tu comunidad Android en español
 baseurl: ""
 url: "https://rockndroid.dev" # the base hostname & protocol for your site
 
