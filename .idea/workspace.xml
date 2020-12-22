@@ -20,33 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2535bc4b-f24e-4372-a458-38d1d090c959" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/vinyl-mad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vinyl-vig.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/call-to-action.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/call-to-action.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/android-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/android-icon-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/android-icon-36x36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/android-icon-48x48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/android-icon-72x72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/android-icon-96x96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-114x114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-120x120.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-152x152.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-180x180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-57x57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-60x60.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-72x72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-76x76.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon-precomposed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/apple-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/favicon-96x96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/ms-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/ms-icon-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/ms-icon-310x310.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon/ms-icon-70x70.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +50,24 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img/" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,6 +81,8 @@
       <workItem from="1607450264508" duration="33000" />
       <workItem from="1607469418710" duration="1696000" />
       <workItem from="1607471179811" duration="2054000" />
+      <workItem from="1607474689783" duration="411000" />
+      <workItem from="1608635597002" duration="2784000" />
     </task>
     <servers />
   </component>
@@ -105,13 +102,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="500" height="445" key="SwitcherDM" timestamp="1607471945645">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1608644880375">
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.25.3440.1415@0.25.3440.1415" timestamp="1607471945645" />
-    <state x="693" y="505" width="759" height="490" key="find.popup" timestamp="1607472827100">
+    <state width="500" height="445" key="SwitcherDM/0.25.3440.1415@0.25.3440.1415" timestamp="1608644880375" />
+    <state x="693" y="505" width="759" height="490" key="find.popup" timestamp="1608641558034">
       <screen x="0" y="25" width="3440" height="1415" />
     </state>
-    <state x="693" y="505" width="759" height="490" key="find.popup/0.25.3440.1415@0.25.3440.1415" timestamp="1607472827100" />
+    <state x="693" y="505" width="759" height="490" key="find.popup/0.25.3440.1415@0.25.3440.1415" timestamp="1608641558034" />
   </component>
 </project>
