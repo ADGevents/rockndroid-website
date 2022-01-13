@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2535bc4b-f24e-4372-a458-38d1d090c959" name="Default Changelist" comment="" />
+    <list default="true" id="2535bc4b-f24e-4372-a458-38d1d090c959" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +40,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/img/portfolio" />
@@ -61,6 +71,7 @@
       <workItem from="1607471179811" duration="2054000" />
       <workItem from="1607474689783" duration="411000" />
       <workItem from="1608635597002" duration="3222000" />
+      <workItem from="1642066833667" duration="1743000" />
     </task>
     <servers />
   </component>
@@ -78,15 +89,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="500" height="445" key="SwitcherDM" timestamp="1608644880375">
-      <screen x="0" y="25" width="3440" height="1415" />
-    </state>
-    <state width="500" height="445" key="SwitcherDM/0.25.3440.1415@0.25.3440.1415" timestamp="1608644880375" />
-    <state x="693" y="505" width="759" height="490" key="find.popup" timestamp="1608641558034">
-      <screen x="0" y="25" width="3440" height="1415" />
-    </state>
-    <state x="693" y="505" width="759" height="490" key="find.popup/0.25.3440.1415@0.25.3440.1415" timestamp="1608641558034" />
   </component>
 </project>
